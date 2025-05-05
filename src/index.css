@@ -1,0 +1,27 @@
+@import "tailwindcss";
+
+* {
+    font-family: 'Montserrat', sans-serif;
+  }
+
+  body {
+    margin: 0;
+    position: relative;
+    background-color: rgba(11, 10, 27, 0.938); /* cor de fundo fallback */
+  }
+  
+  /* ::before com a imagem de fundo desfocada */
+  body::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background-image: url('assets/noir-5k-2t-3840x2400.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-blend-mode: multiply;
+    background-color: rgba(9, 7, 34, 0.6); /* tom escuro com opacidade */
+    filter: blur(10px); /* intensidade do blur */
+    opacity: 0.8; /* opacidade da imagem de fundo */
+    z-index: -1; /* joga pra trás do conteúdo */
+  }
