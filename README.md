@@ -1,12 +1,18 @@
-# React + Vite
+# 💻 Acesse o Sistema
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Acesse uma interface moderna e minimalista para login, feita com **React** e **Tailwind CSS**, com efeitos de background fosco e responsivo.
+---
 
-Currently, two official plugins are available:
+## 🚀 Tecnologias Utilizadas
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- [React](https://reactjs.org/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- Deploy com [Vercel](https://vercel.com)
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🖼️ Preview
+![screencapture-localhost-5173-2025-05-05-16_29_40](https://github.com/user-attachments/assets/1db0b717-8997-4dab-952e-127f473d2d8d)
+
+---
+👉 [Acesse o projeto online]([https://seu-projeto.vercel.app](https://login-screen-react-bay.vercel.app)) <!-- Substitua pelo link real do Vercel -->
